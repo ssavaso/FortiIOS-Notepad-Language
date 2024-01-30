@@ -1,0 +1,1 @@
+This file will allow you to open and close sections of Fortios configs and works for 6.4.14.  The one that is provided by Fortinet has a small problem in part of it does not allow the section to be closed due to the way the next/end is setup.
