@@ -1,1 +1,1 @@
-This file will allow you to open and close sections of Fortios configs and works for the version that is on the file.  The one that is provided by Fortinet has a small problem in part of it does not allow the section to be closed due to the way the next/end is setup.
+This is a place to store different Fortinet Configs that I come accross that I think maybe valuable to others such as the Notepad++ file that allows you to close sections in the Fortinet Config.
