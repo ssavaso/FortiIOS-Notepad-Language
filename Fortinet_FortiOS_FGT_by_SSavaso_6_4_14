@@ -1,5 +1,6 @@
 <NotepadPlus>
     <UserLang name="Fortinet_FortiOS_FGT_by_SSavaso_6_4_14" ext="" udlVersion="2.1">
+    <!-- This file fixes issues with the Fortinet official UDL and enables you to open and close all areas. -->
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
